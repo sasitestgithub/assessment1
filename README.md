@@ -1,2 +1,12 @@
-[readme.md](https://github.com/sasitestgithub/assessment1/files/7151413/readme.md)
-# assessment1
+Setup
+
+    npm install
+	
+	
+Run
+
+	npm start
+	
+Routes
+
+    http://localhost:8080/forecast?city=chennai&orderBy=desc
